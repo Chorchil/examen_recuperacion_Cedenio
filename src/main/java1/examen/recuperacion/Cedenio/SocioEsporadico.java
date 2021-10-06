@@ -1,4 +1,4 @@
-package examen_recuperacion_Cedenio;
+package examen.recuperacion.Cedenio;
 
 public class SocioEsporadico extends Socio{
 private String codigoEsporadico;
